@@ -14,8 +14,9 @@ API REST desenvolvida em Node.js para uma plataforma de apostas baseada no jogo 
 
 ## Integrantes
 
-- Álvaro Rezende
-- João Luiz
+- Álvaro Rezende Martimiano
+- João Luiz Rezende
+- Luiza Cardoso da Locha 
 
 ---
 
@@ -23,7 +24,7 @@ API REST desenvolvida em Node.js para uma plataforma de apostas baseada no jogo 
 
 Clone o repositório:
 
-git clone https://github.com/usuario/api-campo-minado.git
+git clone https://github.com/Alvaro-Rezende/api-campo-minado.git
 cd api-campo-minado
 
 Instale as dependências:
